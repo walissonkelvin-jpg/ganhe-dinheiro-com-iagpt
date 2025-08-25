@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ganhe Dinheiro com IA</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+    header { background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') no-repeat center center/cover; color: white; text-align: center; padding: 120px 20px; position: relative; }
+    header h1 { font-size: 3em; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.6); }
+    header p { font-size: 1.5em; margin-top: 10px; text-shadow: 1px 1px 5px rgba(0,0,0,0.5); }
+    .countdown { font-size: 1.5em; margin-top: 20px; background: rgba(255,87,34,0.9); padding: 10px 20px; border-radius: 10px; display: inline-block; color: white; font-weight: bold; }
+    .btn { display: inline-block; padding: 18px 35px; margin-top: 20px; background: #ff5722; color: white; font-weight: bold; text-decoration: none; border-radius: 10px; transition: transform 0.2s, background 0.3s; font-size: 1.2em; }
+    .btn:hover { background: #e64a19; transform: scale(1.05); }
+    .btn-fixed { position: fixed; bottom: 20px; right: 20px; z-index: 999; }
+    section { padding: 60px 20px; text-align: center; }
+    section h2 { font-size: 2.4em; margin-bottom: 20px; color: #222; }
+    section p { font-size: 1.2em; max-width: 800px; margin: 0 auto 20px; line-height: 1.6em; }
+    .features, .testimonials, .faq, .bonus { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 40px; }
+    .feature, .testimonial, .faq-item, .bonus-item { background: white; padding: 25px; border-radius: 15px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); transition: transform 0.3s; }
+    .feature:hover, .testimonial:hover, .faq-item:hover, .bonus-item:hover { transform: translateY(-5px); }
+    .testimonial { font-style: italic; }
+    footer { background: #222; color: white; text-align: center; padding: 40px 20px; margin-top: 40px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Descubra Como Ganhar Dinheiro Todos os Dias com IA ????</h1>
+  <p>Mesmo sem experiência, transforme seu tempo livre em uma fonte de renda real!</p>
+  <div class="countdown" id="countdown">Vagas limitadas! ? Terminam em 24:00:00</div>
+  <a href="https://pay.hotmart.com/seu-link" class="btn btn-fixed">?? COMEÇAR A LUCRAR AGORA!</a>
+</header>
+
+<section>
+  <h2>Cansado de ver seu salário desaparecer todo mês?</h2>
+  <p>Imagine acordar e abrir o notebook para ver sua primeira venda do dia, ou viajar enquanto sua renda continua entrando automaticamente. Com nosso método, você vai aprender passo a passo como lucrar usando Inteligência Artificial, mesmo começando do zero.</p>
+  <div class="features">
+    <div class="feature">
+      <h3>?? Método Simples</h3>
+      <p>Passo a passo direto ao ponto, sem enrolação.</p>
+    </div>
+    <div class="feature">
+      <h3>?? Resultados Rápidos</h3>
+      <p>Comece a faturar em poucos dias aplicando técnicas comprovadas.</p>
+    </div>
+    <div class="feature">
+      <h3>?? Liberdade</h3>
+      <p>Trabalhe de onde quiser e tenha mais tempo para o que realmente importa.</p>
+    </div>
+  </div>
+  <a href="https://pay.hotmart.com/seu-link" class="btn">?? GARANTIR MEU ACESSO AGORA!</a>
+</section>
+
+<section class="bonus">
+  <h2>?? Bônus Exclusivos (Somente Hoje!)</h2>
+  <p>Ao se inscrever agora, você ainda recebe:</p>
+  <div class="bonus">
+    <div class="bonus-item">?? Ebook com 100 prompts prontos de IA</div>
+    <div class="bonus-item">?? Checklist para vender todos os dias</div>
+    <div class="bonus-item">?? Comunidade VIP no Telegram com suporte diário</div>
+    <div class="bonus-item">?? Consultoria VIP inicial para os 50 primeiros inscritos</div>
+  </div>
+</section>
+
+<section class="testimonials">
+  <h2>O que nossos alunos dizem</h2>
+  <div class="testimonial">“Nunca imaginei que fosse possível ganhar tanto em tão pouco tempo. Esse curso mudou minha vida!” – <b>Ana P.</b></div>
+  <div class="testimonial">“Simples, prático e direto ao ponto. Já recuperei meu investimento na primeira semana.” – <b>Lucas M.</b></div>
+  <div class="testimonial">“Agora consigo trabalhar de qualquer lugar do mundo, só com meu notebook e internet.” – <b>Fernanda S.</b></div>
+  <div class="testimonial">“Em apenas 7 dias, já tinha faturado R$1.500 aplicando as técnicas.” – <b>Ricardo T.</b></div>
+  <div class="testimonial">“Nunca pensei que trabalhar com IA pudesse ser tão simples e lucrativo.” – <b>Paula R.</b></div>
+</section>
+
+<section class="faq">
+  <h2>? Perguntas Frequentes</h2>
+  <div class="faq">
+    <div class="faq-item"><b>Preciso ter experiência?</b><br>Não, o método foi criado para iniciantes.</div>
+    <div class="faq-item"><b>Quanto tempo até ter resultados?</b><br>Muitos alunos veem resultados já na primeira semana.</div>
+    <div class="faq-item"><b>O curso é vitalício?</b><br>Sim! Você terá acesso ilimitado ao conteúdo e futuras atualizações.</div>
+  </div>
+  <a href="https://pay.hotmart.com/seu-link" class="btn">?? QUERO MINHA VAGA AGORA!</a>
+</section>
+
+<footer>
+  <p>© 2025 Ganhe Dinheiro com IA – Todos os direitos reservados.</p>
+  <a href="https://pay.hotmart.com/seu-link" class="btn">GARANTIR MEU ACESSO AGORA</a>
+</footer>
+
+<script>
+// Contagem regressiva
+var countdownDate = new Date();
+countdownDate.setHours(countdownDate.getHours() + 24);
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countdownDate - now;
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  document.getElementById("countdown").innerHTML = "Vagas limitadas! ? Terminam em " + hours + ":" + minutes + ":" + seconds;
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown").innerHTML = "?? Inscrições Encerradas!";
+  }
+}, 1000);
+</script>
+
+</body>
+</html>
